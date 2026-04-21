@@ -1,0 +1,6 @@
+{
+  "name": "Aura Narrate - Spatial Storybooks",
+  "description": "Finds a storybook in your Google Drive, extracts the text using Gemini, and generates an immersive spatial audio narration using Google TTS and DeepMind Lyria models, saving the final audio right back to your drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
